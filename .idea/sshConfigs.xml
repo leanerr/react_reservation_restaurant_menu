@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="185.94.98.187" id="b3b8c7fe-4efb-43f7-8653-c8f49f2e87d3" port="22" customName="foodReact" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="185.94.98.187" id="cae4d136-4f16-4331-891c-cf9ec4574310" port="22" customName="foodReact" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  overflow-x:hidden;
+  overflow-y:hidden;
+  width: 100%;
+  height:100%;
+}
+.week{
+  width:100%;
+
+  text-align: center;
+  background: linear-gradient(to right, #ffc72d, rgba(72, 159, 230, 0.69));
+  height:100vh;
+  padding-top: 10%;
+}
+.week  h1,h2,h3 {
+  color: #ababab;
+}.panel  h1,h2,h3 {
+  color: #ffffff;
+}
+  .wellcome{
+    background: linear-gradient(to right, #8e8e8e, rgba(85, 83, 142, 0.69));
+    height:100vh;
+    width:100%;
+    padding: 2%;
+  }
+    .wellcome h1,h2{
+  text-align: center;
+      padding-right: 4%;
+      padding-top: 2%;
+
+      color:white;
+    }
+    .form{
+        text-align: center;
+      padding-right: 4%;
+    }
+
+
+    .header{
+        width: 100%;
+         height:5%;
+        background-color: #b7b7b7;
+    }
+    .footer{
+      width: 100%;
+      height:2%;
+      background-color: #b5b5b5;
+    }
+  .formcheck {
+    color: #dfdbff;
+    font-size: 30px;
+
+    }
+  .panel{
+    width:100%;
+    height:100vh;
+    text-align: center;
+    background: linear-gradient(to right, #2e4e5c, rgba(46, 78, 92, 0.69));
+    padding-top: 10%;
+  }
+button{
+ border-radius:10%;
+  background-color: #1d1118;
+  color:whitesmoke;
+}
+button:hover {
+  background-color: #8e8e8e;
+  color: white;
+  cursor:pointer;
+}
+.pointer {cursor: pointer;}
