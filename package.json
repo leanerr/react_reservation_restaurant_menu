@@ -6,7 +6,7 @@
     "@syncfusion/ej2-react-grids": "^16.2.47",
     "axios": "^0.18.0",
     "moment-jalaali": "^0.7.4",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "react": "^16.4.1",
     "react-animate-on-scroll": "^2.1.5",
     "react-day-picker": "^7.1.9",
